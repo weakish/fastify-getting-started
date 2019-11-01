@@ -8,8 +8,11 @@
   },
   "scripts": {
     "test": "tap test/**/*.test.js",
-    "start": "fastify start -l info app.js",
+    "start": "node server.js",
     "dev": "fastify start -l info -P app.js"
+  },
+  "engines": {
+    "node": "12.x"
   },
   "keywords": [],
   "author": "",
