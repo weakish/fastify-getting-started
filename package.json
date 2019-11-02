@@ -1,7 +1,7 @@
 {
   "name": "fastify-getting-started",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.0",
+  "description": "when fastify meets LeanEngine",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "0BSD",
   "dependencies": {
     "fastify": "^2.0.0",
     "fastify-autoload": "^1.0.0",
