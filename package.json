@@ -2,10 +2,7 @@
   "name": "fastify-getting-started",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
-  "directories": {
-    "test": "test"
-  },
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
